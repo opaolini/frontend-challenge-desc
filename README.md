@@ -43,4 +43,5 @@ The app itself is quite simple and consists of two views.
 * Use the reactive framework of your choice.
 * It should include a router to easily navigate back and forward.
 * It should contain at least one unit test invoked with `npm test`.
+* When you will be finished with the development, please upload it to a public GitHub repo and send over an email with the link :)
 * Running as a dev should work out of the box with `git clone` -> `npm install` -> `npm start`
