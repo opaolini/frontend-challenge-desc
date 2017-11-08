@@ -37,6 +37,7 @@ The app itself is quite simple and consists of two views.
 * The `receiver_address` in transaction row should be CLICKABLE and should be redirect users to `/address/receiver_address`
 
 ## Key Requirements
+Since blockchain.info does not support `CORS: Access-Control-Allow-Origin: *` for all of their requests you can either use a `Webpack proxy` or the hosted CORS proxy I've provided you via email. 
 
 * This should be a Single Page App.
 * Use either `npm` or `yarn`
